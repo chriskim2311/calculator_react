@@ -15,6 +15,8 @@
     "url": "https://github.com/Learning-Fuze/react_starter.git"
   },
   "dependencies": {
+    "immutability-helper": "^3.0.0",
+    "mathjs": "^5.4.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",

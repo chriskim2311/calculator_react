@@ -1,6 +1,6 @@
-# React Starter
+# React Calculator
 
-> This repo contains boilerplate code to aid in the creation of a new React app with Redux. Follow the below setup instructions to get started.
+> This repo contains a simple calculator built entirely in React.js
 
 ### Setup Instructions
 
@@ -20,4 +20,3 @@
 > 1. Run webpack to bundle files
 >    - `npm run bundle`
 > 
-> **NOTE:** *After bundling you can not directly run your app locally. You must run your app from the root directory of a server.*
